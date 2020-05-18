@@ -1,0 +1,82 @@
+/* Your Admin Style */
+
+table.hmwpa-form-table {
+    max-width: 720px;
+}
+
+table.hmwpa-form-table tr.hmwpa_shortcode {
+    height: 80px;
+    width: 720px;
+}
+
+#hmwpa_shortcode {
+    padding: 10px;
+    text-align: center;
+    border: 2px dotted #FF0000;
+    background: #FFAA2B;
+    font-size: 18px;
+    font-weight: 600;
+    max-width: 430px;
+}
+
+table.hmwpa-alert-bar-table {
+    border: 1px solid #CCC;
+}
+
+table.hmwpa-alert-bar-table th,
+table.hmwpa-alert-bar-table td {
+    padding: 5px;
+    border-bottom: 1px solid #CCC;
+    background: #F8F8F8;
+    text-align: center;
+}
+
+a.delete {
+    color: #CC0000;
+}
+
+a.delete:hover {
+    color: #FF0000;
+}
+
+
+/* Alert Bar Started */
+
+.hmwpa-alert {
+    padding: 20px!important;
+    color: white;
+}
+
+.hmwpa-alert.success {
+    background-color: #6ABD6E;
+}
+
+.hmwpa-alert.error {
+    background-color: #F66358;
+}
+
+.hmwpa-alert.warning {
+    background-color: #FFAA2B;
+}
+
+.hmwpa-alert.info {
+    background-color: #47A8F5;
+}
+
+.hmwpa-closebtn {
+    margin-left: 15px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.hmwpa-closebtn:hover {
+    color: black;
+}
+
+
+/* Alert Bar Ended */
