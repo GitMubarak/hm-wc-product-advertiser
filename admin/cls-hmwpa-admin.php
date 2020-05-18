@@ -17,12 +17,12 @@ class HMWPA_Admin
 	*/
 	public function hmwpa_admin_menu(){
 		
-		add_menu_page(	esc_html__('WC Prodcut Adv', HMWPA_TXT_DOMAIN),
-						esc_html__('WC Prodcut Adv', HMWPA_TXT_DOMAIN),
+		add_menu_page(	esc_html__('Prodcut Advertise', HMWPA_TXT_DOMAIN),
+						esc_html__('Prodcut Advertise', HMWPA_TXT_DOMAIN),
 						'manage_options',
 						'hmwpa-admin-panel',
 						array( $this, HMWPA_PRFX . 'load_admin_panel' ),
-						'',
+						'dashicons-cart',
 						100 
 					);
 	}
