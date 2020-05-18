@@ -3,7 +3,7 @@
  * Plugin Name:	HM Wc Product Advertiser
  * Plugin URI:	http://wordpress.org/plugins/hm-wc-product-advertiser/
  * Description:	This plugin will display product randomly at the bottom right corner when scroll down your browser.
- * Version:		1.0
+ * Version:		1.1
  * Author:		Hossni Mubarak
  * Author URI:	http://www.hossnimubarak.com
  * License:		GPL-2.0+

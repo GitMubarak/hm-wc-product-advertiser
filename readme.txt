@@ -1,10 +1,10 @@
-=== HM Wc Product Advertiser ===
+=== WooCommerce Product Advertiser ===
 Contributors: mhmrajib
 Donate link: https://www.paypal.me/mhmrajib/2
-Tags: products, random product, wc product, image, ajax
-Requires at least: 4.5
-Tested up to: 5.2.2
-Stable tag: 1.0
+Tags: products, random product, woocommerce, woo-commerce, ajax
+Requires at least: 4.6
+Tested up to: 5.4.1
+Stable tag: 1.1
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,11 +13,10 @@ This plugin will display product randomly at the bottom right corner when scroll
 
 == Description ==
 
-This [HM Wc Product Advertiser](http://www.hossnimubarak.com) plugin will show product at the bottom right corner when scrolling down. It displays the products randomly with the help of ajax call.
-
+[WooCommerce Product Advertiser](http://www.hossnimubarak.com) is a wocommerce plugin which will display product at the bottom right corner when scrolling down. It display the product randomly with the help of ajax call.
 The ajax call appears each time you scroll down and the prodcut comes one after one randomly when you stop scrolling.
 
-**Plugin Features:**
+**🌟 Plugin Features:**
 
 * Easy to install
 * Fully integrated in WordPress
@@ -32,12 +31,28 @@ The ajax call appears each time you scroll down and the prodcut comes one after 
 * Load Product via Ajax when scrolling down
 
 
-**Give us a Feedback/Rating**
+**📋 Feedback/Rating**
 Feel free to give us your valuable review and share this plugin with others. This will help us to improve this plugin. Rate us and we are always ready to add any features if you want.
+
+
+**🔥 Other Plugins from [HM Plugins](http://www.hossnimubarak.com)**
+
+👉 [Worldwide Breaking News Headlines](https://wordpress.org/plugins/worldwide-breaking-news-headlines/) Breaking News, Headlines plugin
+👉 [WP Top News](https://wordpress.org/plugins/wp-top-news/) Top News, Breaking News, Headlines Plugin
+👉 [Tiny Bar](https://wordpress.org/plugins/tiny-bar/) Display a bar at Top or Bottom
+👉 [WP Books Gallery](https://wordpress.org/plugins/wp-books-gallery/) Display Books Gallery
+👉 [WordPress Stripe Donation](https://wordpress.org/plugins/wp-stripe-donation/) A donation plugin using Stripe payment
+👉 [HM Product Catalog](https://wordpress.org/plugins/hm-product-catalog/) Display Products catalog wise with shortcoded
+👉 [HM Resume Manager](https://wordpress.org/plugins/hm-resume-manager/) A resume manager plugin
+👉 [HM – Cool Author Box](https://wordpress.org/plugins/hm-cool-author-box-widget/) Author Box plugin
+👉 [WP Scroll To Post](https://wordpress.org/plugins/wp-scroll-to-post/) Display random post(Single) at the bottom right corner
+👉 [HM Recent Posts Widget](https://wordpress.org/plugins/hm-recent-posts-widget/) Ticker Post plugin
+👉 [WP Alert Bars](https://wordpress.org/plugins/wp-alert-bars/) Notification/Alert box Plugin in Post/Page
+
 
 == Installation ==
 
-Install HM Wc Product Advertiser as a regular WordPress plugin. Here are different ways to install plugin:
+Install WooCommerce Product Advertiser as a regular WordPress plugin. Here are different ways to install plugin:
 
 **Install by search plugin:**
 
@@ -64,6 +79,10 @@ Please go to WC Product Adv menu, and apply the settings. In your browser just s
 
 
 == Screenshots ==
+
+1. Activate the plugin from plugin section
+2. Admin Panel settings
+3. Display product when scroll down on the web browser
 
 
 == Changelog ==
