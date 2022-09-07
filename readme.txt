@@ -1,11 +1,11 @@
-=== WooCommerce Product Advertiser ===
+=== Product Advertiser for WooCommerce ===
 Contributors: mhmrajib
-Donate link: https://www.paypal.me/mhmrajib/2
-Tags: products, random product, woocommerce, woo-commerce, ajax
-Requires at least: 4.6
-Tested up to: 5.4.1
-Stable tag: 1.1
-Requires PHP: 5.6
+Donate link: https://www.paypal.me/mhmrajib
+Tags: products, advertise, woocommerce, woo-commerce, ajax
+Requires at least: 5.2
+Tested up to: 6.0.2
+Stable tag: 1.2
+Requires PHP: 7.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,7 +13,7 @@ This plugin will display product randomly at the bottom right corner when scroll
 
 == Description ==
 
-[WooCommerce Product Advertiser](http://www.hossnimubarak.com) is a wocommerce plugin which will display product at the bottom right corner when scrolling down. It display the product randomly with the help of ajax call.
+[Product Advertiser for WooCommerce](http://www.hossnimubarak.com) is a wocommerce plugin which will display product at the bottom right corner when scrolling down. It display the product randomly with the help of ajax call.
 The ajax call appears each time you scroll down and the prodcut comes one after one randomly when you stop scrolling.
 
 **🌟 Plugin Features:**
@@ -35,7 +35,7 @@ The ajax call appears each time you scroll down and the prodcut comes one after 
 Feel free to give us your valuable review and share this plugin with others. This will help us to improve this plugin. Rate us and we are always ready to add any features if you want.
 
 
-**🔥 Other Plugins from [HM Plugins](http://www.hossnimubarak.com)**
+**🔥 Other Plugins from [HM Plugin](http://www.hossnimubarak.com)**
 
 👉 [Worldwide Breaking News Headlines](https://wordpress.org/plugins/worldwide-breaking-news-headlines/) Breaking News, Headlines plugin
 👉 [WP Top News](https://wordpress.org/plugins/wp-top-news/) Top News, Breaking News, Headlines Plugin
@@ -52,7 +52,7 @@ Feel free to give us your valuable review and share this plugin with others. Thi
 
 == Installation ==
 
-Install WooCommerce Product Advertiser as a regular WordPress plugin. Here are different ways to install plugin:
+Install Product Advertiser for WooCommerce as a regular WordPress plugin. Here are different ways to install plugin:
 
 **Install by search plugin:**
 
@@ -75,17 +75,25 @@ Install WooCommerce Product Advertiser as a regular WordPress plugin. Here are d
 
 = I have installed the plugin. What next? =
 
-Please go to WC Product Adv menu, and apply the settings. In your browser just scroll your mouse and you'll see random prodcut appears at the bottom right corner.
+Please go to Product Advertise menu, and apply the settings. In your browser just scroll your mouse and you'll see random prodcut appears at the bottom right corner.
 
 
 == Screenshots ==
 
-1. Activate the plugin from plugin section
-2. Admin Panel settings
-3. Display product when scroll down on the web browser
+1. Display product when scroll down
+2. Loading product one after another
+3. Admin Panel settings
 
 
 == Changelog ==
+
+= 1.2 =
+* Design changed
+
+= 1.1 =
+* Design changed
+* Code updated
+* Bug fixed
 
 = 1.0 =
 * Initial release
